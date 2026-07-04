@@ -340,7 +340,7 @@
    "cell_type": "code",
    "execution_count": 10,
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
@@ -382,7 +382,7 @@
    "cell_type": "code",
    "execution_count": 12,
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
@@ -411,7 +411,7 @@
    "cell_type": "code",
    "execution_count": 13,
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
